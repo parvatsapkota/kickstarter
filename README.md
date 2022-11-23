@@ -1,5 +1,6 @@
 # Kickstarter Analysis
-Overview:<br> Here, I tried to determine what factors might lead to the success or failure of crowdfunding campaigns. For that, I used the Kickstarter data. I got the data from Kaggle, and performed analysis using R. My analysis can be found in the final draft file. <br>
+<br> Here, I was interested in finding out factors responsible for success or failure of crowdfunding campaigns. I determined various factors by downloading the data from Kaggle, cleaning it using Excel, and performing analysis using R. My analysis can be found in the final draft file. <br>
+
 
 
 
